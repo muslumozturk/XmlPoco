@@ -1,6 +1,6 @@
 ﻿//
 //  Bu class ile xmle insert update ve delete işlemlerini yapabilirsiniz.
-//  Müslüm ÖZTÜRK 07.01.2013
+//  Müslüm ÖZTÜRK 14.01.2013
 //
 //
 
